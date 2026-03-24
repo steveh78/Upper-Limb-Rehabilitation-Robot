@@ -39,7 +39,7 @@
 
 ## Result
 ### 1. Mechanical and electrical parts
-
+<img width="1218" height="556" alt="prototype" src="https://github.com/user-attachments/assets/16ea3694-f80c-4754-b94e-7d63b3cccfd5" />
 
 ### 2. Control program demonstration
 - Rotational exercise
