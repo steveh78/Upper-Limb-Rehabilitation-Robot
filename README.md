@@ -50,12 +50,24 @@
 - It waits in a stationary state, and the motor rotates when a value exceeding a certain threshold is measured by the torque sensor.
 - If the torque value is high, it indicates that the user is pushing with force, so the position is moved further.
 - If the torque value is below a certain threshold, it returns to a stationary state.
+- The threshold is set differently depending on the level.
 
 #### 2. Rotational Resist mode 
+- It applies the DAC (Digital-to-Analog Converter) voltage to the AC servo amplifier to control the motor current and generate a load.
+- The load is set differently depending on the level.
+- If a high load is required, use a magnetic brake (MBRK) to generate additional load.
+- To prevent the motor from returning to the origin, clear the position deviation to change the origin.
 
 #### 3. Translational Active-assist mode 
-#### 4. Translational Resist mode 
+- It waits in a stationary state, and the actuator operates when the force sensor measures a value exceeding the threshold.
+- The threshold is set differently depending on the level.
+<img width="915" height="363" alt="translation" src="https://github.com/user-attachments/assets/2a23e525-c326-45c3-9e8f-fbf3c93e63c8" />
 
+#### 4. Translational Resist mode 
+- Like Active-assist, it operates the linear actuator by detecting the reaction force applied to the load cell.
+- The force threshold and load are set differently depending on the level.
+- If the current applied to the motor is high, the load is reduced, making it easier for the user to move. 
+- Conversely, if the applied current is low, the load increases, making movement difficult.
 <br>
 
 ## Result
