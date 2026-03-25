@@ -29,11 +29,26 @@
 <img width="1327" height="583" alt="circuit" src="https://github.com/user-attachments/assets/58fc65c0-87b9-435c-b162-4ef3a69a10fe" />
 
 ### 4. Control program development
-- Function
-- Rotation 
-- Translation
-- Active-assist
-- Resist
+- Function : It consists of 2 exercise modes, 2 option modes, and 3 levels.
+
+|exercise mode|option mode|level|
+| --- | --- | --- |
+| Rotational | Active-assist | 1, 2, 3 |
+| Rotational | Resist | 1, 2, 3 |
+| Translational | Active-assist | 1, 2, 3 |
+| Translational | Resist | 1, 2, 3 |
+
+- Exercise modes : Rotational and Translational exercise mode
+<img width="1163" height="417" alt="exercisemodes" src="https://github.com/user-attachments/assets/d0beefe5-93ad-46ff-8dc3-27e3fc80effe" />
+
+- Active-assist mode : It operates a motor to assist with exercise. It can also be used for muscle relaxation (stretching).
+- Resist mode : It uses a motor to generate physical load for muscle strengthening.
+- Levels : Exercise intensity can be adjusted in three levels : low(1), medium(2), and high(3).
+
+#### 1. Rotational Active-assist mode
+#### 2. Rotational Resist mode 
+#### 3. Translational Active-assist mode 
+#### 4. Translational Resist mode 
 
 <br>
 
