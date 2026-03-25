@@ -55,7 +55,7 @@
 #### 2. Rotational Resist mode 
 - It applies the DAC (Digital-to-Analog Converter) voltage to the AC servo amplifier to control the motor current and generate a load.
 - The load is set differently depending on the level.
-- If a high load is required, use a magnetic brake (MBRK) to generate additional load.
+- If a high load is required, use a magnetic brake to generate additional load.
 - To prevent the motor from returning to the origin, clear the position deviation to change the origin.
 
 #### 3. Translational Active-assist mode 
