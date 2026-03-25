@@ -46,7 +46,13 @@
 - Levels : Exercise intensity can be adjusted in three levels : low(1), medium(2), and high(3).
 
 #### 1. Rotational Active-assist mode
+- Controls the position of the AC servo motor by inputting a pulse signal into the AC servo amplifier.
+- It waits in a stationary state, and the motor rotates when a value exceeding a certain threshold is measured by the torque sensor.
+- If the torque value is high, it indicates that the user is pushing with force, so the position is moved further.
+- If the torque value is below a certain threshold, it returns to a stationary state.
+
 #### 2. Rotational Resist mode 
+
 #### 3. Translational Active-assist mode 
 #### 4. Translational Resist mode 
 
