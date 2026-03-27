@@ -78,3 +78,6 @@
 - Rotational exercise
 
 - Translational exercise
+
+https://github.com/user-attachments/assets/796c5b0c-4be0-4acf-b622-3749bd903251
+
