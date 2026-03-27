@@ -77,6 +77,9 @@
 ### 2. Control program demonstration
 - Rotational exercise
 
+https://github.com/user-attachments/assets/485c6ffb-251e-47c3-863d-0abb0da30623
+
+
 - Translational exercise
 
 https://github.com/user-attachments/assets/796c5b0c-4be0-4acf-b622-3749bd903251
