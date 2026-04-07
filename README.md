@@ -42,7 +42,7 @@
 - Exercise modes : Rotational and Translational exercise mode
 <img width="1163" height="417" alt="exercisemodes" src="https://github.com/user-attachments/assets/d0beefe5-93ad-46ff-8dc3-27e3fc80effe" />
 
-- Active-assist mode : It operates a motor to assist with exercise. It can also be used for muscle relaxation (stretching).
+- Active-assist mode : It operates a motor to assist with exercise. It can also be used for muscle relaxation.
 - Resist mode : It uses a motor to generate physical load for muscle strengthening.
 - Levels : Exercise intensity can be adjusted in three levels : low(1), medium(2), and high(3).
 
